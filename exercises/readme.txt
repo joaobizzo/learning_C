@@ -1,10 +1,10 @@
-#C++ Coding Exercises
+# C++ Coding Exercises
 Welcome to my repository of C++ coding exercises! This repository is dedicated to showcasing my progress and solutions to various coding challenges and exercises in C++.
 
-##Contents
+## Contents
 This repository contains a collection of C++ programs that I have created while learning and practicing the language. Each program is a separate solution to a coding exercise or challenge, and is organized into different folders by topic.
 
-##Usage
+## Usage
 Each program in this repository comes with a main.cpp file that can be compiled and executed.
 
 ##Contributions
