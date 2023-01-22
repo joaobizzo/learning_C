@@ -1,4 +1,4 @@
-# C++ Coding Exercises
+<h1>C++ Coding Exercises</h1>
 Welcome to my repository of C++ coding exercises! This repository is dedicated to showcasing my progress and solutions to various coding challenges and exercises in C++.
 
 ## Contents
