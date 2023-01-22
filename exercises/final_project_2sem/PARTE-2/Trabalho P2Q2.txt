@@ -1,0 +1,21 @@
+PARTE 2 - QUESTÃO 2 - Trabalho PROG1
+
+
+Nomes:
+Gabriel Ferreira de Menezes - RA: 22253284
+João Bizzo Brandt - RA: 22252028
+Vitor Murgi Beloto - RA: 22252903
+
+Data: 16/11/22
+
+v1 (conteudo) = 44
+v1 (endereco) = 6487564
+v2 (conteudo) = 12
+v2 (endereco) = 6487560
+Valores dos ponteiros
+pontA (conteudo) = 6487564
+pontA (endereco) = 6487576
+pontA (valor do ponteiro) = 44
+pontB (conteudo) = 6487564
+pontB (endereco) = 6487568
+pontB (valor do ponteiro) = 44

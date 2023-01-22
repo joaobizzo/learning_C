@@ -1,0 +1,19 @@
+PARTE 2 - QUESTÃO 4 - Trabalho PROG1
+
+
+Nomes:
+Gabriel Ferreira de Menezes - RA: 22253284
+João Bizzo Brandt - RA: 22252028
+Vitor Murgi Beloto - RA: 22252903
+
+Data: 16/11/22
+
+4) Considere as linhas de código abaixo:
+int *p, i, k;
+i = 42;
+k = i;
+p = &i;
+Qual a opção abaixo irá alterar o valor de i para 30.
+a) k = 30; b) *k = 30; c) p = 30; d) *p = 30;
+
+Resposta = D

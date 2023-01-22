@@ -1,0 +1,28 @@
+PARTE 2 - QUESTÃO 5 - Trabalho PROG1
+
+
+Nomes:
+Gabriel Ferreira de Menezes - RA: 22253284
+João Bizzo Brandt - RA: 22252028
+Vitor Murgi Beloto - RA: 22252903
+
+Data: 16/11/22
+
+5) Qual o valor impresso para a e b ?
+#include <stdio.h>
+int main () {
+int a = 5, b = 15;
+int *pA, *pB;
+pA = &a;
+pB = &b;
+*pA = 10;
+*pB = *pA;
+pA = pB;
+*pA = 20;
+printf (“a=%d“, a);
+printf(“ b=%d“, b);
+getch();
+}
+
+
+Resposta =   A = 10 / B = 20
